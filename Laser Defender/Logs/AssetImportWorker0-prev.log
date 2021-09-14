@@ -1,0 +1,2070 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1165; Version 2009; 64bit' Language: 'tr' Physical Memory: 8048 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/GitHub/LaserDefender/Laser Defender
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53147
+Successfully changed project path to: D:/GitHub/LaserDefender/Laser Defender
+D:/GitHub/LaserDefender/Laser Defender
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 38.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/GitHub/LaserDefender/Laser Defender/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     4021 MB
+    Driver:   26.21.14.3630
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56964
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002357 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 34.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.093 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000923 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 36.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.968 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1792 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.4 MB.
+System memory in use after: 84.3 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2233.
+Total: 2.800600 ms (FindLiveObjects: 0.250100 ms CreateObjectMapping: 0.105200 ms MarkObjects: 2.268700 ms  DeleteObjects: 0.175000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Backgrounds/black.png
+  artifactKey: Guid(a0022ce7e54ff494585af009bbc37644) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Backgrounds/black.png using Guid(a0022ce7e54ff494585af009bbc37644) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab246a8adab6642ec740cc8118b124b9') in 0.213100 seconds
+  Import took 0.216599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000652 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Backgrounds/purple.png
+  artifactKey: Guid(123b3e9442608ed489601905b5fa347b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Backgrounds/purple.png using Guid(123b3e9442608ed489601905b5fa347b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1840ef3f5a89c833b35993a29efb8476') in 0.017709 seconds
+  Import took 0.021338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000846 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Backgrounds
+  artifactKey: Guid(5b2e16f2c880b444eb7a526b037b667f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Backgrounds using Guid(5b2e16f2c880b444eb7a526b037b667f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '711e2552ccd5d8743e8197779a5daaed') in 0.010282 seconds
+  Import took 0.020418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000464 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets
+  artifactKey: Guid(7c21c6c40a3a82b4cae0487213f98549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets using Guid(7c21c6c40a3a82b4cae0487213f98549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b47bc4f70ac56c309b93b5bbe51d2a5') in 0.007220 seconds
+  Import took 0.010875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Explosion-stars.png
+  artifactKey: Guid(1f94a0c533217434caeaf8b5e32e3f3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Explosion-stars.png using Guid(1f94a0c533217434caeaf8b5e32e3f3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91d286e622610654fdca0f2f53986c0e') in 0.024911 seconds
+  Import took 0.031854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Backgrounds/darkPurple.png
+  artifactKey: Guid(5f54fcb845022d047b83f40eecca9eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Backgrounds/darkPurple.png using Guid(5f54fcb845022d047b83f40eecca9eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f43e570202f996b443a5b48654248d36') in 0.023504 seconds
+  Import took 0.029617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets
+  artifactKey: Guid(ab8ebd156619a394bb953d69b797d81f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets using Guid(ab8ebd156619a394bb953d69b797d81f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4892bd1c95668e65ddebe0bb93e8fabe') in 0.012204 seconds
+  Import took 0.015888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/preview.png
+  artifactKey: Guid(a4ec6e7dd0fa50c4f9438bd57d6c7007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/preview.png using Guid(a4ec6e7dd0fa50c4f9438bd57d6c7007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17dce28f4d7c951ba1f0d19f82f73822') in 0.043959 seconds
+  Import took 0.047880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Backgrounds/blue.png
+  artifactKey: Guid(a51ad77e4f6f815468ded464afb0da53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Backgrounds/blue.png using Guid(a51ad77e4f6f815468ded464afb0da53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f31d65e280265bf437f178ff4ad32738') in 0.020944 seconds
+  Import took 0.025384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Backgrounds/Space-Background-Tiled.png
+  artifactKey: Guid(1ad021286167c4140861c56cf31815d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Backgrounds/Space-Background-Tiled.png using Guid(1ad021286167c4140861c56cf31815d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea3c068355a2827110abb3fd88e2d911') in 0.063093 seconds
+  Import took 0.066733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/sample.png
+  artifactKey: Guid(03d2cfe0e4d946544b630bc69030eb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/sample.png using Guid(03d2cfe0e4d946544b630bc69030eb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09e2f5820cb3e0496b3bb97a7a9ceaae') in 0.022252 seconds
+  Import took 0.025743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 114.037962 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a6e520b92ccfc61bcfa21a7bcab8468') in 0.006510 seconds
+  Import took 0.009849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 261.716739 seconds.
+  path: Assets/Sprites
+  artifactKey: Guid(48c19acffa9a9334b87deea7dd98add3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(48c19acffa9a9334b87deea7dd98add3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97ab74c3a2344663a49c7f8a523c9051') in 0.006971 seconds
+  Import took 0.010847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.547831 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Bonus/kenvector_future.ttf
+  artifactKey: Guid(f5bf1905f7e3c194fa35728542d166c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Bonus/kenvector_future.ttf using Guid(f5bf1905f7e3c194fa35728542d166c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59d34875424652f6ab4a7ea53a60a77a') in 0.072799 seconds
+  Import took 0.076388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Bonus/sfx_shieldUp.ogg
+  artifactKey: Guid(e17cb06b488dec546ae6119a333563d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Bonus/sfx_shieldUp.ogg using Guid(e17cb06b488dec546ae6119a333563d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98acd62be5a3c58e04c7ea570fb80c76') in 0.040048 seconds
+  Import took 0.042757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Bonus/sfx_twoTone.ogg
+  artifactKey: Guid(324cd6c69604257449dd426bee5e8e52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Bonus/sfx_twoTone.ogg using Guid(324cd6c69604257449dd426bee5e8e52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '058d91fb5700d9a28f0d1fe7acb559f0') in 0.013125 seconds
+  Import took 0.016131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Bonus/sfx_laser2.ogg
+  artifactKey: Guid(9ab16b52d09d6b049a563aa52233d858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Bonus/sfx_laser2.ogg using Guid(9ab16b52d09d6b049a563aa52233d858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5c10c82d6d0ae395d7750a8b944db43') in 0.020428 seconds
+  Import took 0.024141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Bonus/sfx_lose.ogg
+  artifactKey: Guid(3646713b0d1280440841f767875d8db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Bonus/sfx_lose.ogg using Guid(3646713b0d1280440841f767875d8db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '033bc6b8725aa605f9dbba57dab0db50') in 0.017345 seconds
+  Import took 0.022382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Bonus/sfx_zap.ogg
+  artifactKey: Guid(59f2e46981662444f881bff23f8ccc98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Bonus/sfx_zap.ogg using Guid(59f2e46981662444f881bff23f8ccc98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec15bb73fed274fe5349b4e9904b1e70') in 0.014202 seconds
+  Import took 0.018086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Bonus/kenvector_future_thin.ttf
+  artifactKey: Guid(6aeda63c85b838746826d6f1739960f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Bonus/kenvector_future_thin.ttf using Guid(6aeda63c85b838746826d6f1739960f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24247ccca02fb014f443f024eb71e6d6') in 0.017494 seconds
+  Import took 0.021538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Bonus/sfx_shieldDown.ogg
+  artifactKey: Guid(fb06bdfb0f7830c42ad8f7fa74d8e049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Bonus/sfx_shieldDown.ogg using Guid(fb06bdfb0f7830c42ad8f7fa74d8e049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf409d5063b073bc34259ce1ed776d30') in 0.013933 seconds
+  Import took 0.017826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Bonus/sfx_laser1.ogg
+  artifactKey: Guid(66c0cc0f16401dc42bef9e1b8eccb2de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Bonus/sfx_laser1.ogg using Guid(66c0cc0f16401dc42bef9e1b8eccb2de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a169bf9ffdbbd039860a683b062e3bc6') in 0.014597 seconds
+  Import took 0.018814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.311489 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Spritesheet/sheet.png
+  artifactKey: Guid(36977fae6f51e7f4eb33d36af5105110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/Spritesheet/sheet.png using Guid(36977fae6f51e7f4eb33d36af5105110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ae18f05b499affd69296fc3ecefde92') in 0.024797 seconds
+  Import took 0.028764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.744802 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/playerShip1_blue.png
+  artifactKey: Guid(4c6b909b1c0a27d4ba9145e3213ff9c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/playerShip1_blue.png using Guid(4c6b909b1c0a27d4ba9145e3213ff9c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8383baf9c887b710859eddfc15ed3ce5') in 0.014717 seconds
+  Import took 0.017962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/playerShip3_orange.png
+  artifactKey: Guid(12c4b3328e202b7408aa9dc7017d41b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/playerShip3_orange.png using Guid(12c4b3328e202b7408aa9dc7017d41b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '133956a7dc3d6290d1ac9cddabacb21e') in 0.015658 seconds
+  Import took 0.018746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/playerShip2_green.png
+  artifactKey: Guid(c432da034e42f30468560dde2fbc18f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/playerShip2_green.png using Guid(c432da034e42f30468560dde2fbc18f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d48154500cb49b0d3c56e26ce7c054e') in 0.018162 seconds
+  Import took 0.022009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/playerShip3_blue.png
+  artifactKey: Guid(098c0617dc264ee40b983ea48bf2a324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/playerShip3_blue.png using Guid(098c0617dc264ee40b983ea48bf2a324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c72287c0a6fca21132e47a14b9b3a58') in 0.017175 seconds
+  Import took 0.021332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000480 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/playerShip3_green.png
+  artifactKey: Guid(2cf4df1464105ea4eb61b313a5e8a8a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/playerShip3_green.png using Guid(2cf4df1464105ea4eb61b313a5e8a8a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13cf5f2ad90c03666e4007c11b7720a0') in 0.019841 seconds
+  Import took 0.025454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/playerShip2_orange.png
+  artifactKey: Guid(2a3e5d87a7dfc9d41880bb72f3dc7af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/playerShip2_orange.png using Guid(2a3e5d87a7dfc9d41880bb72f3dc7af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9127d64d421ffc3b8927c7720354f1e') in 0.021344 seconds
+  Import took 0.027335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/playerShip1_orange.png
+  artifactKey: Guid(d5a858fece4399e499e0b0cb9cf94096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/playerShip1_orange.png using Guid(d5a858fece4399e499e0b0cb9cf94096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e31bbde9d9a8e372abd068bbe8908868') in 0.020225 seconds
+  Import took 0.025228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/playerShip1_red.png
+  artifactKey: Guid(8ffcdeb6592635b4986ebc5e669155fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/playerShip1_red.png using Guid(8ffcdeb6592635b4986ebc5e669155fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4552d3d5eb3041a3650e1a0736ea389') in 0.017329 seconds
+  Import took 0.022379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/playerShip1_green.png
+  artifactKey: Guid(c745c1cb5f09410489ac9464cadc3cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/playerShip1_green.png using Guid(c745c1cb5f09410489ac9464cadc3cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4e0e48a5dfd0354051d2d6cc9edef53') in 0.017873 seconds
+  Import took 0.021980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/playerShip2_red.png
+  artifactKey: Guid(b014631eb955dff4c9dedfce8b7ab6d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/playerShip2_red.png using Guid(b014631eb955dff4c9dedfce8b7ab6d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b10bc59d01969823a54bf8e74d037d2') in 0.018350 seconds
+  Import took 0.022579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/playerShip2_blue.png
+  artifactKey: Guid(e33b4ab249c61bd4b8c825c06536ae09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/playerShip2_blue.png using Guid(e33b4ab249c61bd4b8c825c06536ae09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b964f4961816c9972ec4382e13c513b2') in 0.020149 seconds
+  Import took 0.023908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.369689 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/playerShip3_red.png
+  artifactKey: Guid(22724367e1726414e895c04f59692043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/playerShip3_red.png using Guid(22724367e1726414e895c04f59692043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a88ba38e4d7eb868f580397a797ca835') in 0.012272 seconds
+  Import took 0.015403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/ufoBlue.png
+  artifactKey: Guid(65bae8a8cc3458a4895b80931ee7266c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/ufoBlue.png using Guid(65bae8a8cc3458a4895b80931ee7266c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9304d682aea43fe899f15ad96869e5ca') in 0.017426 seconds
+  Import took 0.020733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/ufoGreen.png
+  artifactKey: Guid(42604eb7f708d06498cf21083d924030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/ufoGreen.png using Guid(42604eb7f708d06498cf21083d924030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d0838d0077a5d9191081fef2ef35ff0') in 0.018472 seconds
+  Import took 0.023803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.347927 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/ufoRed.png
+  artifactKey: Guid(4d4ac7d9b5e2049428d16cc4133a389e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/ufoRed.png using Guid(4d4ac7d9b5e2049428d16cc4133a389e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c46ff46ba484537607ef38dd27fe1c0') in 0.013076 seconds
+  Import took 0.017031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/ufoYellow.png
+  artifactKey: Guid(8ea0e34b9d699b34c8762c40794db098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/ufoYellow.png using Guid(8ea0e34b9d699b34c8762c40794db098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a30d1625155b633e0d6ae10ffab57b37') in 0.014084 seconds
+  Import took 0.018389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.067949 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies
+  artifactKey: Guid(95cc0f96a5f688c45a5c788301f50878) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies using Guid(95cc0f96a5f688c45a5c788301f50878) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c808c05f7d073ef1e54146b68e40cff4') in 0.006581 seconds
+  Import took 0.010005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.061036 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyBlack1.png
+  artifactKey: Guid(a0e0bd24fbc402049823be9f87c3c43a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyBlack1.png using Guid(a0e0bd24fbc402049823be9f87c3c43a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adf51f387c0480c78009ad25986f8bc8') in 0.016482 seconds
+  Import took 0.019587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyRed3.png
+  artifactKey: Guid(12bfc883db3ba034a948a298117ae15b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyRed3.png using Guid(12bfc883db3ba034a948a298117ae15b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86fb99e54df1752598c347277294cc12') in 0.106497 seconds
+  Import took 0.109215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyRed1.png
+  artifactKey: Guid(a4ae970a5b1922c45a325e927a18496c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyRed1.png using Guid(a4ae970a5b1922c45a325e927a18496c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8ddc388467b9f7a2263f317734deaf3') in 0.014077 seconds
+  Import took 0.017119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyGreen1.png
+  artifactKey: Guid(f6465be8e385b2346b69aadbd1c0bcc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyGreen1.png using Guid(f6465be8e385b2346b69aadbd1c0bcc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b148866c9148098551a4a4c86cd374c') in 0.503772 seconds
+  Import took 0.507303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyBlack4.png
+  artifactKey: Guid(0dc89e193c6e0d84f858ee3797e5b4e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyBlack4.png using Guid(0dc89e193c6e0d84f858ee3797e5b4e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd97227410de642f4ea7ac4c33750b120') in 0.013970 seconds
+  Import took 0.017387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyBlue1.png
+  artifactKey: Guid(5674e9180d69c464393ce355eb7c66fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyBlue1.png using Guid(5674e9180d69c464393ce355eb7c66fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08e578fb0c39082cf43dc49d0275436d') in 0.016241 seconds
+  Import took 0.021271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyGreen4.png
+  artifactKey: Guid(7c8e1ddc5f4c8cd4ebf4f0970b99e055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyGreen4.png using Guid(7c8e1ddc5f4c8cd4ebf4f0970b99e055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56121be4ae1753947820bb53ddc32528') in 0.016719 seconds
+  Import took 0.020852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyGreen5.png
+  artifactKey: Guid(5823ace9a495cd9448ce33b29fe46a57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyGreen5.png using Guid(5823ace9a495cd9448ce33b29fe46a57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dea432daf6e6cacb43f759d55880c5d6') in 0.019492 seconds
+  Import took 0.024134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyBlue3.png
+  artifactKey: Guid(b27a89f3f8a833b488a3e806d0156705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyBlue3.png using Guid(b27a89f3f8a833b488a3e806d0156705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c53f727bdf78a2cca0c0e47900d650d0') in 0.017875 seconds
+  Import took 0.021550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyBlack3.png
+  artifactKey: Guid(3f3e1275bfe5a7b4bb1f33b19a752bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyBlack3.png using Guid(3f3e1275bfe5a7b4bb1f33b19a752bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49b6171f3b509fe1892e09e414f9b479') in 0.016344 seconds
+  Import took 0.020383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyBlack2.png
+  artifactKey: Guid(eff7be59bf741c34880f07d2e14f7b57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyBlack2.png using Guid(eff7be59bf741c34880f07d2e14f7b57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dd451f1bbefbb9064e5f868de544254') in 0.017148 seconds
+  Import took 0.021297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000604 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyGreen2.png
+  artifactKey: Guid(3dd95ceef39652743b79017fa50e6223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyGreen2.png using Guid(3dd95ceef39652743b79017fa50e6223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcf5b7a2bdecb6e943e5f8be3960cffd') in 0.025248 seconds
+  Import took 0.030046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyGreen3.png
+  artifactKey: Guid(91df32f147d612e45be92b400bc94981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyGreen3.png using Guid(91df32f147d612e45be92b400bc94981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b838bb1f6896a603fa89092c974dae86') in 0.018410 seconds
+  Import took 0.022489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyRed5.png
+  artifactKey: Guid(b7b2f35204e1d634b9e0e594163e9b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyRed5.png using Guid(b7b2f35204e1d634b9e0e594163e9b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9cfec83f2c3fa5c8dc7a59b3eafa2f2') in 0.016637 seconds
+  Import took 0.020486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyBlack5.png
+  artifactKey: Guid(7d2baa16d3311c746925e73ed48c701e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyBlack5.png using Guid(7d2baa16d3311c746925e73ed48c701e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c2d6913f529cf13cae2d5a78f0fa34a') in 0.015704 seconds
+  Import took 0.020429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyBlue2.png
+  artifactKey: Guid(e26a94ec008a84848bf31db2ff11c5e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyBlue2.png using Guid(e26a94ec008a84848bf31db2ff11c5e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11ca533d89f01b84c85b33bfdd45ded7') in 0.019359 seconds
+  Import took 0.023726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyBlue4.png
+  artifactKey: Guid(258ab66ed88772e4c97ec69986d9cae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyBlue4.png using Guid(258ab66ed88772e4c97ec69986d9cae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da4503db184e8bb00a4327c3c7ae8d8f') in 0.017400 seconds
+  Import took 0.021912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyRed4.png
+  artifactKey: Guid(d0b0ea4f09e93ab43bfaa98ff95583c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyRed4.png using Guid(d0b0ea4f09e93ab43bfaa98ff95583c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ad7ec5135679d8a98e9992d72114552') in 0.015379 seconds
+  Import took 0.019109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyBlue5.png
+  artifactKey: Guid(2ebe67a25a7dc3b4db58f93dc23a3b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyBlue5.png using Guid(2ebe67a25a7dc3b4db58f93dc23a3b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c18cfb853636cd4334bdba986a40fc18') in 0.024809 seconds
+  Import took 0.029186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyRed2.png
+  artifactKey: Guid(0da3546b484142e40aed95e1f519ace7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Enemies/enemyRed2.png using Guid(0da3546b484142e40aed95e1f519ace7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8021fccc1760085ab59111c9c1844de7') in 0.018098 seconds
+  Import took 0.022562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 334.927490 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/beam0.png
+  artifactKey: Guid(d5c97896cabeac64196779fdf59a26aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/beam0.png using Guid(d5c97896cabeac64196779fdf59a26aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbe98881beeae58af6d0722be8c0ef06') in 0.019641 seconds
+  Import took 0.024162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitBlue_1.png
+  artifactKey: Guid(9f6ae5a55fa705e4bb2fc76d8bdd4d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitBlue_1.png using Guid(9f6ae5a55fa705e4bb2fc76d8bdd4d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30fb7611563ffd0fec86671e51594699') in 0.022131 seconds
+  Import took 0.026125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitBlue_5.png
+  artifactKey: Guid(21615f1e6cc02604385f8f6f4152563b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitBlue_5.png using Guid(21615f1e6cc02604385f8f6f4152563b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf0a5e9e2e8a7ae5f56892ede365cb72') in 0.014032 seconds
+  Import took 0.017084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitBlue_3.png
+  artifactKey: Guid(c75988258f8d250469af160efd91ead2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitBlue_3.png using Guid(c75988258f8d250469af160efd91ead2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35b8682cc7549e436f2aaab4eceae20d') in 0.014806 seconds
+  Import took 0.018105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/beamLong2.png
+  artifactKey: Guid(153698e76608d9f459e9db0056465b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/beamLong2.png using Guid(153698e76608d9f459e9db0056465b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd6852ea5d504fe7b963152c16ed80f3') in 0.011602 seconds
+  Import took 0.014797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Power-ups/bolt_bronze.png
+  artifactKey: Guid(e56b342ebabdae04d9883566ffeb2456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Power-ups/bolt_bronze.png using Guid(e56b342ebabdae04d9883566ffeb2456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ea2d4fa6500468430b782cccb8a69ee') in 0.019409 seconds
+  Import took 0.023217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/UI/buttonBlue.png
+  artifactKey: Guid(ae749fc6a238cf5458ae4b1acbf14e3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/UI/buttonBlue.png using Guid(ae749fc6a238cf5458ae4b1acbf14e3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db7acda460e983ab07287191f1eb220e') in 0.018450 seconds
+  Import took 0.025003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/beam4.png
+  artifactKey: Guid(f3bc40cecb89e734392dd40ace4887af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/beam4.png using Guid(f3bc40cecb89e734392dd40ace4887af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2802011eb7df2790cd657b548b84000') in 0.023258 seconds
+  Import took 0.027313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000473 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/UI/buttonRed.png
+  artifactKey: Guid(e903b04a87dbc7e4a8735d4cfbb8371b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/UI/buttonRed.png using Guid(e903b04a87dbc7e4a8735d4cfbb8371b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53ef8cc68734f799871707e746ad5789') in 0.021806 seconds
+  Import took 0.029318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitBlue_0.png
+  artifactKey: Guid(117261bec19cd6c41951728bf672fe82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitBlue_0.png using Guid(117261bec19cd6c41951728bf672fe82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2216eabc33b2f29b1f7de8e677b18ffe') in 0.019489 seconds
+  Import took 0.025540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitBlue_4.png
+  artifactKey: Guid(ce2cdf6ea67b2724c8b1a45ec0e1fafc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitBlue_4.png using Guid(ce2cdf6ea67b2724c8b1a45ec0e1fafc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29ecb8c55c7453fbc3cf1f73e583ccd4') in 0.019032 seconds
+  Import took 0.023175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/beam0.png
+  artifactKey: Guid(d5c97896cabeac64196779fdf59a26aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/beam0.png using Guid(d5c97896cabeac64196779fdf59a26aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbe98881beeae58af6d0722be8c0ef06') in 0.011800 seconds
+  Import took 0.016051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000536 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Power-ups/bolt_gold.png
+  artifactKey: Guid(8b12bb0c3a90b1048af679d15ac2279d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Power-ups/bolt_gold.png using Guid(8b12bb0c3a90b1048af679d15ac2279d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c7efff18e7d6dd5445fdb5ee4523b36') in 0.017164 seconds
+  Import took 0.023661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000635 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/beamLong1.png
+  artifactKey: Guid(611c96d7226ff5e4e996e30bf67ae991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/beamLong1.png using Guid(611c96d7226ff5e4e996e30bf67ae991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df30ccd43d35b71d89caf43f62785aff') in 0.017187 seconds
+  Import took 0.021358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/beam3.png
+  artifactKey: Guid(0da10b09a36e7014e9bb820fb0a90a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/beam3.png using Guid(0da10b09a36e7014e9bb820fb0a90a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fedfe09a33ada6eeb1e8c3344e63b9fd') in 0.017936 seconds
+  Import took 0.021796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitBlue_6.png
+  artifactKey: Guid(100efb2925380984f9372b6d71adfc96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitBlue_6.png using Guid(100efb2925380984f9372b6d71adfc96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56453f992b3946f5c31ae4f9335ca3a5') in 0.020592 seconds
+  Import took 0.025436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/beam6.png
+  artifactKey: Guid(6512e99ba05c9494f9ab9fb0251626b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/beam6.png using Guid(6512e99ba05c9494f9ab9fb0251626b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc61675bd3d31ecc5e7b88e282f2f25f') in 0.019925 seconds
+  Import took 0.023799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/beam1.png
+  artifactKey: Guid(9849ae045ee5f004baae6b5606be6aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/beam1.png using Guid(9849ae045ee5f004baae6b5606be6aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73a717315ec8f3b21c85eec30e280c84') in 0.015224 seconds
+  Import took 0.020954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000463 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Power-ups/bold_silver.png
+  artifactKey: Guid(9a5e8aed3623ec74eb4ad91b187e55d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Power-ups/bold_silver.png using Guid(9a5e8aed3623ec74eb4ad91b187e55d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df2d7ccfebd6d55c51e01e3b444e8f9c') in 0.021334 seconds
+  Import took 0.025544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/UI/buttonYellow.png
+  artifactKey: Guid(2a4241b98ab39e642a4ec53c54075086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/UI/buttonYellow.png using Guid(2a4241b98ab39e642a4ec53c54075086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d5464cd43ef62ff0082f301ad4e0f00') in 0.016821 seconds
+  Import took 0.020712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/beam2.png
+  artifactKey: Guid(287e8ec217d995f4fbaaaf3903d590af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/beam2.png using Guid(287e8ec217d995f4fbaaaf3903d590af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '544e5a78c250f3f5dc6c48a95ea69316') in 0.021567 seconds
+  Import took 0.027232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitBlue_2.png
+  artifactKey: Guid(0fd0bc46ada488444a4318c3976328e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitBlue_2.png using Guid(0fd0bc46ada488444a4318c3976328e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '724e28d1952aa15a04dd4dfaf8771ffd') in 0.017592 seconds
+  Import took 0.022432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/beam5.png
+  artifactKey: Guid(85839f31b89866e47bd6f98a7b1aed8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/beam5.png using Guid(85839f31b89866e47bd6f98a7b1aed8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f75089e5a04cde50c36f65e9e99b548') in 0.018367 seconds
+  Import took 0.024589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/UI/buttonGreen.png
+  artifactKey: Guid(9d7a627634243af489984083651c922c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/UI/buttonGreen.png using Guid(9d7a627634243af489984083651c922c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a86dbf247649873eacc59c108b72d7dd') in 0.019325 seconds
+  Import took 0.023587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007975 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/UI/buttonGreen.png
+  artifactKey: Guid(9d7a627634243af489984083651c922c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/UI/buttonGreen.png using Guid(9d7a627634243af489984083651c922c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a86dbf247649873eacc59c108b72d7dd') in 0.011186 seconds
+  Import took 0.015457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.693078 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitBlue_7.png
+  artifactKey: Guid(e75bce003cb9d6041b17ab5cd4a637c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitBlue_7.png using Guid(e75bce003cb9d6041b17ab5cd4a637c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '024181ff41af1a5156668c590152e717') in 0.013440 seconds
+  Import took 0.017160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000467 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitGreen_1.png
+  artifactKey: Guid(0ed8f7b0b75b8504cb153b428caf7267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitGreen_1.png using Guid(0ed8f7b0b75b8504cb153b428caf7267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0668d9438ada2c082edc292aabec25e5') in 0.014600 seconds
+  Import took 0.018359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitGreen_0.png
+  artifactKey: Guid(eb500fb9951c9924a85ac547083b4b57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitGreen_0.png using Guid(eb500fb9951c9924a85ac547083b4b57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87fd75aca781e2794555994dd5c12ae8') in 0.018262 seconds
+  Import took 0.022378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitGreen_3.png
+  artifactKey: Guid(1e22fe2fd029c0549ab4be39dc15334a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitGreen_3.png using Guid(1e22fe2fd029c0549ab4be39dc15334a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3906b7dc6a7916958776a9f8ce3d8e32') in 0.016767 seconds
+  Import took 0.020510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitGreen_2.png
+  artifactKey: Guid(72ea403918d51064d855dadc1855938b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitGreen_2.png using Guid(72ea403918d51064d855dadc1855938b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c349a39178aefbd62382d4822e9e0e7f') in 0.018059 seconds
+  Import took 0.023707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.308046 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitGreen_4.png
+  artifactKey: Guid(91586f586f8bdec4b9abc45306c5e302) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitGreen_4.png using Guid(91586f586f8bdec4b9abc45306c5e302) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6d1ba39ab8f23f542edc94a845ceaa1') in 0.012375 seconds
+  Import took 0.016182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitGreen_6.png
+  artifactKey: Guid(c8412b24089e79f49b9a57d93010b7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitGreen_6.png using Guid(c8412b24089e79f49b9a57d93010b7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb136a5389d06156a202125146332dbb') in 0.014954 seconds
+  Import took 0.018590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000516 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitGreen_7.png
+  artifactKey: Guid(be4f40083867aa64a9da3f7ee76102d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitGreen_7.png using Guid(be4f40083867aa64a9da3f7ee76102d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '754285e759ef6d477409cd94d12895a0') in 0.017793 seconds
+  Import took 0.022486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitGreen_5.png
+  artifactKey: Guid(3d1af0ddb27d4b64f91db632812c1af9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitGreen_5.png using Guid(3d1af0ddb27d4b64f91db632812c1af9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a681de12f2b4bc9c39c772019da0100') in 0.016362 seconds
+  Import took 0.021424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitRed_0.png
+  artifactKey: Guid(a4d5351d4d06ab045947effb5d49d124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitRed_0.png using Guid(a4d5351d4d06ab045947effb5d49d124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66b5c8b607b951cf701e96953bb07f0a') in 0.017221 seconds
+  Import took 0.021462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.430217 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitRed_1.png
+  artifactKey: Guid(0303bfa6c72246649acacb462dcb4497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitRed_1.png using Guid(0303bfa6c72246649acacb462dcb4497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80912a197a9cb9d599c122c896fd2c31') in 0.099081 seconds
+  Import took 0.102334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitYellow_2.png
+  artifactKey: Guid(abcf88f1b45606a478b3dd6974701a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitYellow_2.png using Guid(abcf88f1b45606a478b3dd6974701a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45a6de6f21523e145d4d36d434d613f6') in 0.013061 seconds
+  Import took 0.016215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitRed_2.png
+  artifactKey: Guid(94edbb3d5e4d97d4e9ab5151946742f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitRed_2.png using Guid(94edbb3d5e4d97d4e9ab5151946742f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5ca89b4e0b875a53fe9b6683d383e53') in 0.014728 seconds
+  Import took 0.019166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000593 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitRed_3.png
+  artifactKey: Guid(2b83f41bd714c0749978adb50b029550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitRed_3.png using Guid(2b83f41bd714c0749978adb50b029550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b43769cbc0f0b8182ddf9e3dfb0354c') in 0.015834 seconds
+  Import took 0.020306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitRed_6.png
+  artifactKey: Guid(9e6a488b49983324c8d7e3e785570a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitRed_6.png using Guid(9e6a488b49983324c8d7e3e785570a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16b47946064aa33110701b2dac9892e3') in 0.019109 seconds
+  Import took 0.022847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000448 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitRed_7.png
+  artifactKey: Guid(5fed808998fee91448c25ee9f0f10c9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitRed_7.png using Guid(5fed808998fee91448c25ee9f0f10c9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f48f565f67ed35c0bfa7f901ed99b41') in 0.015685 seconds
+  Import took 0.020339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitYellow_0.png
+  artifactKey: Guid(40b5f6f46d5582a4d85d16bca0a5a860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitYellow_0.png using Guid(40b5f6f46d5582a4d85d16bca0a5a860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57dcead5a8bcc2d76a3b549666d53e53') in 0.016723 seconds
+  Import took 0.021974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitRed_4.png
+  artifactKey: Guid(b9dfebdf94a0239469c7456b0984533d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitRed_4.png using Guid(b9dfebdf94a0239469c7456b0984533d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f320593064fa62901111f878fa52577') in 0.017588 seconds
+  Import took 0.021442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitRed_5.png
+  artifactKey: Guid(6bd799814e595d84b8c12a0760e21fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitRed_5.png using Guid(6bd799814e595d84b8c12a0760e21fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c54bbe8e5c31bce780eab8d292f82928') in 0.018745 seconds
+  Import took 0.023673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000531 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitYellow_1.png
+  artifactKey: Guid(9229ccf29b60e4b4e8c8b4c38c82119b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitYellow_1.png using Guid(9229ccf29b60e4b4e8c8b4c38c82119b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e9f2cb0b926b6f9e0c39739215e999a') in 0.015325 seconds
+  Import took 0.019457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.099139 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitYellow_3.png
+  artifactKey: Guid(8e0b06440c50b4d4d888c0eda53469e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitYellow_3.png using Guid(8e0b06440c50b4d4d888c0eda53469e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c64bd949a2b5d53ed0629c14b744d12') in 0.012467 seconds
+  Import took 0.017205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitYellow_7.png
+  artifactKey: Guid(414167278dba25a40a292505bb9baefb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitYellow_7.png using Guid(414167278dba25a40a292505bb9baefb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fca44ddce6549d78232a2bef43c19df') in 0.016368 seconds
+  Import took 0.019848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitYellow_4.png
+  artifactKey: Guid(b0ed3a8f59d66ed4988caf6ced831961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitYellow_4.png using Guid(b0ed3a8f59d66ed4988caf6ced831961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4efcfdb9bdce12ecf85ac3e74ba0245') in 0.017166 seconds
+  Import took 0.021214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitYellow_3.png
+  artifactKey: Guid(8e0b06440c50b4d4d888c0eda53469e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitYellow_3.png using Guid(8e0b06440c50b4d4d888c0eda53469e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c64bd949a2b5d53ed0629c14b744d12') in 0.010918 seconds
+  Import took 0.014571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitYellow_4.png
+  artifactKey: Guid(b0ed3a8f59d66ed4988caf6ced831961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitYellow_4.png using Guid(b0ed3a8f59d66ed4988caf6ced831961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4efcfdb9bdce12ecf85ac3e74ba0245') in 0.009848 seconds
+  Import took 0.013660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitYellow_6.png
+  artifactKey: Guid(4fad4e87f51ca0e46862d276a8c82b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitYellow_6.png using Guid(4fad4e87f51ca0e46862d276a8c82b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdb98b3906463f462f200bc58ac117d3') in 0.016655 seconds
+  Import took 0.020556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/UI/cursor.png
+  artifactKey: Guid(910c5e44e4e5fe549bc6d5786fed780d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/UI/cursor.png using Guid(910c5e44e4e5fe549bc6d5786fed780d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c335e993dc64b1bed621a11cca7803de') in 0.017137 seconds
+  Import took 0.022793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitYellow_5.png
+  artifactKey: Guid(d11c4ff3357a93441a8900127f78bb1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/cockpitYellow_5.png using Guid(d11c4ff3357a93441a8900127f78bb1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '836afa96bd886aff57588e2e0643315d') in 0.021417 seconds
+  Import took 0.025361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.573017 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/engine1.png
+  artifactKey: Guid(1533c4f546b492241b773f718e1ba625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/engine1.png using Guid(1533c4f546b492241b773f718e1ba625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d531941adcdecf8c12b0eb18e3c3c6a') in 0.015606 seconds
+  Import took 0.019421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/engine3.png
+  artifactKey: Guid(eb254512dc51c2c40be0baca0ed71490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/engine3.png using Guid(eb254512dc51c2c40be0baca0ed71490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b3a1ce00d0c2314eb0474b19c25326e') in 0.015429 seconds
+  Import took 0.019156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/engine1.png
+  artifactKey: Guid(1533c4f546b492241b773f718e1ba625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/engine1.png using Guid(1533c4f546b492241b773f718e1ba625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d531941adcdecf8c12b0eb18e3c3c6a') in 0.012863 seconds
+  Import took 0.016394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/engine2.png
+  artifactKey: Guid(04b1653f4bdd3e84c8a5ca3bed8e2de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/engine2.png using Guid(04b1653f4bdd3e84c8a5ca3bed8e2de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '765d7894fec64ca2664e6a6e626f0345') in 0.017244 seconds
+  Import took 0.020730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026901 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/engine4.png
+  artifactKey: Guid(1b2145cc4ac262f4d9a8a13ef1ca9a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/engine4.png using Guid(1b2145cc4ac262f4d9a8a13ef1ca9a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '126d7af1f99b2e8c2bb270591a20c629') in 0.017013 seconds
+  Import took 0.020613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Effects/fire04.png
+  artifactKey: Guid(ab81db9bf6dc65640ba791a10a9ce5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Effects/fire04.png using Guid(ab81db9bf6dc65640ba791a10a9ce5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbe0be0be1ae1b17b55af903d61709b0') in 0.017791 seconds
+  Import took 0.021508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Effects/fire03.png
+  artifactKey: Guid(735df2fb430fee740b2dc9a88a506151) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Effects/fire03.png using Guid(735df2fb430fee740b2dc9a88a506151) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38c761a0a5aa36ab2d2f0c63935f839e') in 0.014878 seconds
+  Import took 0.020550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Effects/fire00.png
+  artifactKey: Guid(82651ede2b43e174887e32c2325ef6ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Effects/fire00.png using Guid(82651ede2b43e174887e32c2325ef6ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bff7de3de8438a421fe3d22416b03d0d') in 0.018525 seconds
+  Import took 0.022366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Effects/fire05.png
+  artifactKey: Guid(2b2099df382542e45b27099ce6336c64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Effects/fire05.png using Guid(2b2099df382542e45b27099ce6336c64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1aa92d0eef1842d91a06d4ccdf37b4f5') in 0.015869 seconds
+  Import took 0.019833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000655 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Effects/fire06.png
+  artifactKey: Guid(1536a18fd17011941bde9c0bcbaa6361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Effects/fire06.png using Guid(1536a18fd17011941bde9c0bcbaa6361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '783955834e6a024bb6a9cd6d3d6cd826') in 0.016454 seconds
+  Import took 0.020963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Effects/fire02.png
+  artifactKey: Guid(c89dff047065cb5408ca414f81dd7bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Effects/fire02.png using Guid(c89dff047065cb5408ca414f81dd7bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7ac540ecd155b64624bbca8135eeaa9') in 0.017029 seconds
+  Import took 0.021706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/engine5.png
+  artifactKey: Guid(513a2aefbbc47624abe7d0b72fffd67a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Parts/engine5.png using Guid(513a2aefbbc47624abe7d0b72fffd67a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e9fb00c27b5986b148cd231edb1e7c0') in 0.017019 seconds
+  Import took 0.020706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Effects/fire01.png
+  artifactKey: Guid(5d5170307b4d8d740bf04351b8f18d51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Effects/fire01.png using Guid(5d5170307b4d8d740bf04351b8f18d51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0325f4674c4f7a6ddc0bb255c769c676') in 0.014781 seconds
+  Import took 0.018606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007883 seconds.
+  path: Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Effects/fire01.png
+  artifactKey: Guid(5d5170307b4d8d740bf04351b8f18d51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kenney+Space+Shooter+Visual+Assets/Space Shooter Visual Assets/PNG/Effects/fire01.png using Guid(5d5170307b4d8d740bf04351b8f18d51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0325f4674c4f7a6ddc0bb255c769c676') in 0.011133 seconds
+  Import took 0.015736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1227.457967 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(54f52f9921b78b64ebabd55ea86d5835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(54f52f9921b78b64ebabd55ea86d5835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0e8f5ed093ff7310929005e1b89ac4c') in 0.007433 seconds
+  Import took 0.011399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.594524 seconds.
+  path: Assets/Scripts/PlayerMovement.cs
+  artifactKey: Guid(7786983958ea49b4f8f252d070e6792b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerMovement.cs using Guid(7786983958ea49b4f8f252d070e6792b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '280f85511d88daaf61807df8c6a3f970') in 0.011613 seconds
+  Import took 0.015435 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001683 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.235 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.4 MB.
+System memory in use after: 88.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2369.
+Total: 9.142400 ms (FindLiveObjects: 1.025300 ms CreateObjectMapping: 0.239000 ms MarkObjects: 7.659500 ms  DeleteObjects: 0.215600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001020 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.981 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2372.
+Total: 3.502000 ms (FindLiveObjects: 0.710800 ms CreateObjectMapping: 0.158100 ms MarkObjects: 2.484800 ms  DeleteObjects: 0.146000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001158 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.890 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2375.
+Total: 2.125900 ms (FindLiveObjects: 0.294000 ms CreateObjectMapping: 0.080400 ms MarkObjects: 1.621500 ms  DeleteObjects: 0.129100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012898 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.915 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2378.
+Total: 3.415800 ms (FindLiveObjects: 0.311700 ms CreateObjectMapping: 0.105600 ms MarkObjects: 2.844500 ms  DeleteObjects: 0.151400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001112 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.134 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2381.
+Total: 3.525700 ms (FindLiveObjects: 0.383800 ms CreateObjectMapping: 0.097500 ms MarkObjects: 2.430400 ms  DeleteObjects: 0.612000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003371 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.875 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2384.
+Total: 3.737700 ms (FindLiveObjects: 0.214500 ms CreateObjectMapping: 0.069000 ms MarkObjects: 1.804700 ms  DeleteObjects: 1.648300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001461 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.913 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2387.
+Total: 2.100700 ms (FindLiveObjects: 0.311700 ms CreateObjectMapping: 0.073600 ms MarkObjects: 1.584600 ms  DeleteObjects: 0.129800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.016644 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.944 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2390.
+Total: 2.426300 ms (FindLiveObjects: 0.236000 ms CreateObjectMapping: 0.084300 ms MarkObjects: 1.952300 ms  DeleteObjects: 0.152500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000860 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.838 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2393.
+Total: 2.212900 ms (FindLiveObjects: 0.271500 ms CreateObjectMapping: 0.104600 ms MarkObjects: 1.728900 ms  DeleteObjects: 0.106100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001146 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.005 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.1 MB.
+System memory in use after: 89.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2396.
+Total: 2.317900 ms (FindLiveObjects: 0.308600 ms CreateObjectMapping: 0.079100 ms MarkObjects: 1.816100 ms  DeleteObjects: 0.112600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001013 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.788 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.2 MB.
+System memory in use after: 89.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2399.
+Total: 2.750900 ms (FindLiveObjects: 0.299700 ms CreateObjectMapping: 0.111800 ms MarkObjects: 2.197400 ms  DeleteObjects: 0.140700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000996 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.927 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.2 MB.
+System memory in use after: 89.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2402.
+Total: 2.165300 ms (FindLiveObjects: 0.229200 ms CreateObjectMapping: 0.100700 ms MarkObjects: 1.718900 ms  DeleteObjects: 0.115200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001550 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.010 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.3 MB.
+System memory in use after: 89.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2405.
+Total: 2.391000 ms (FindLiveObjects: 0.264600 ms CreateObjectMapping: 0.095600 ms MarkObjects: 1.881800 ms  DeleteObjects: 0.147700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001047 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.383 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2408.
+Total: 2.854100 ms (FindLiveObjects: 0.507800 ms CreateObjectMapping: 0.166600 ms MarkObjects: 2.045000 ms  DeleteObjects: 0.132900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001046 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.284 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2411.
+Total: 6.509800 ms (FindLiveObjects: 1.777500 ms CreateObjectMapping: 0.884400 ms MarkObjects: 3.684000 ms  DeleteObjects: 0.156200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001168 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.105 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.5 MB.
+System memory in use after: 89.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2414.
+Total: 2.730500 ms (FindLiveObjects: 0.290900 ms CreateObjectMapping: 0.081400 ms MarkObjects: 2.233200 ms  DeleteObjects: 0.123700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001086 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.951 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.6 MB.
+System memory in use after: 89.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2417.
+Total: 2.269900 ms (FindLiveObjects: 0.375300 ms CreateObjectMapping: 0.066100 ms MarkObjects: 1.685400 ms  DeleteObjects: 0.142000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001125 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.026 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.7 MB.
+System memory in use after: 89.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2420.
+Total: 2.588600 ms (FindLiveObjects: 0.305400 ms CreateObjectMapping: 0.113100 ms MarkObjects: 2.048500 ms  DeleteObjects: 0.120000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001192 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.128 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.7 MB.
+System memory in use after: 89.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2423.
+Total: 3.085300 ms (FindLiveObjects: 0.318500 ms CreateObjectMapping: 0.096900 ms MarkObjects: 2.536000 ms  DeleteObjects: 0.132500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001149 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.931 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.8 MB.
+System memory in use after: 89.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2426.
+Total: 2.283600 ms (FindLiveObjects: 0.259400 ms CreateObjectMapping: 0.063800 ms MarkObjects: 1.819300 ms  DeleteObjects: 0.139800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001355 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.003 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.9 MB.
+System memory in use after: 89.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2429.
+Total: 2.813000 ms (FindLiveObjects: 0.218900 ms CreateObjectMapping: 0.073800 ms MarkObjects: 2.399200 ms  DeleteObjects: 0.119700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001338 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.024 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.9 MB.
+System memory in use after: 89.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2432.
+Total: 2.408400 ms (FindLiveObjects: 0.224900 ms CreateObjectMapping: 0.083400 ms MarkObjects: 1.965100 ms  DeleteObjects: 0.133700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001132 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.994 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.0 MB.
+System memory in use after: 90.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2435.
+Total: 3.483100 ms (FindLiveObjects: 0.856100 ms CreateObjectMapping: 0.414600 ms MarkObjects: 2.080000 ms  DeleteObjects: 0.129300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001081 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.940 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.1 MB.
+System memory in use after: 90.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2438.
+Total: 2.453600 ms (FindLiveObjects: 0.429600 ms CreateObjectMapping: 0.074900 ms MarkObjects: 1.820900 ms  DeleteObjects: 0.126400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001148 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.994 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.2 MB.
+System memory in use after: 90.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2441.
+Total: 2.546400 ms (FindLiveObjects: 0.257800 ms CreateObjectMapping: 0.080900 ms MarkObjects: 2.071400 ms  DeleteObjects: 0.134400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002271 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.858 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.2 MB.
+System memory in use after: 90.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2444.
+Total: 2.351600 ms (FindLiveObjects: 0.305400 ms CreateObjectMapping: 0.087800 ms MarkObjects: 1.860600 ms  DeleteObjects: 0.096500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001428 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.994 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.3 MB.
+System memory in use after: 90.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2447.
+Total: 3.210100 ms (FindLiveObjects: 0.224900 ms CreateObjectMapping: 0.079900 ms MarkObjects: 2.740100 ms  DeleteObjects: 0.163300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002897 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.052 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.4 MB.
+System memory in use after: 90.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2450.
+Total: 2.489400 ms (FindLiveObjects: 0.279500 ms CreateObjectMapping: 0.095700 ms MarkObjects: 2.002100 ms  DeleteObjects: 0.111000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001321 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.058 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.5 MB.
+System memory in use after: 90.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2453.
+Total: 2.323000 ms (FindLiveObjects: 0.256700 ms CreateObjectMapping: 0.103000 ms MarkObjects: 1.855000 ms  DeleteObjects: 0.107000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001137 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.038 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.5 MB.
+System memory in use after: 90.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2456.
+Total: 2.419200 ms (FindLiveObjects: 0.216600 ms CreateObjectMapping: 0.082300 ms MarkObjects: 2.003900 ms  DeleteObjects: 0.115000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000931 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.784 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.6 MB.
+System memory in use after: 89.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2459.
+Total: 5.251000 ms (FindLiveObjects: 0.486900 ms CreateObjectMapping: 0.217300 ms MarkObjects: 4.384000 ms  DeleteObjects: 0.160300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001116 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.936 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.7 MB.
+System memory in use after: 89.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2462.
+Total: 2.217600 ms (FindLiveObjects: 0.255600 ms CreateObjectMapping: 0.075200 ms MarkObjects: 1.783600 ms  DeleteObjects: 0.101700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001010 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.875 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.7 MB.
+System memory in use after: 89.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2465.
+Total: 3.623800 ms (FindLiveObjects: 0.326300 ms CreateObjectMapping: 0.134500 ms MarkObjects: 2.976600 ms  DeleteObjects: 0.184400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001258 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.877 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.8 MB.
+System memory in use after: 89.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2468.
+Total: 2.209100 ms (FindLiveObjects: 0.293600 ms CreateObjectMapping: 0.090500 ms MarkObjects: 1.720300 ms  DeleteObjects: 0.102400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001476 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.983 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.9 MB.
+System memory in use after: 89.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2471.
+Total: 2.694100 ms (FindLiveObjects: 0.335300 ms CreateObjectMapping: 0.085200 ms MarkObjects: 2.132900 ms  DeleteObjects: 0.139500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000959 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.307 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.0 MB.
+System memory in use after: 90.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2474.
+Total: 2.668900 ms (FindLiveObjects: 0.399700 ms CreateObjectMapping: 0.117600 ms MarkObjects: 2.025900 ms  DeleteObjects: 0.124300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001078 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.922 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.0 MB.
+System memory in use after: 90.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2477.
+Total: 2.412500 ms (FindLiveObjects: 0.377100 ms CreateObjectMapping: 0.092500 ms MarkObjects: 1.843100 ms  DeleteObjects: 0.098700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001116 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.007 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.1 MB.
+System memory in use after: 90.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2480.
+Total: 3.254000 ms (FindLiveObjects: 0.455700 ms CreateObjectMapping: 0.130800 ms MarkObjects: 2.499200 ms  DeleteObjects: 0.166300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001084 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.996 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.2 MB.
+System memory in use after: 90.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2483.
+Total: 2.310500 ms (FindLiveObjects: 0.196000 ms CreateObjectMapping: 0.071000 ms MarkObjects: 1.936600 ms  DeleteObjects: 0.105600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000994 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.936 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1788 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.3 MB.
+System memory in use after: 90.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2486.
+Total: 2.059300 ms (FindLiveObjects: 0.288800 ms CreateObjectMapping: 0.082800 ms MarkObjects: 1.544000 ms  DeleteObjects: 0.142500 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
