@@ -6,33 +6,51 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     
+    private Camera gameCamera;
+    
     [SerializeField] private GameObject laserPrefab;
 
     private Coroutine firingCoroutine;
     
-    private Camera gameCamera;
-    
-    
-    [SerializeField] private float
-        projectileSpeed = 10f,
-        projectileFiringPeriod = 0.1f;
-    
-
+     
     private float
         minX,
         maxX,
         minY,
         maxY;
 
+    [Header("Projectile")] 
+    [SerializeField] private float projectileSpeed = 10f;
+    [SerializeField] private float projectileFiringPeriod = 0.1f;
+    
+    [Header("Player Movement")]
     [SerializeField] private float padding = 1f;
     [SerializeField] private float moveSpeed;
-    
-    
+    [SerializeField] private int health = 200;
+
+
     private void Awake()
     {
         gameCamera = Camera.main;
         SetUpTheBoundaries();
     }
+    
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        DamageDealer damageDealer = other.gameObject.GetComponent<DamageDealer>();
+        ProcessHit(damageDealer);
+    }
+
+    void ProcessHit(DamageDealer damageDealer)
+    {
+        health -= damageDealer.GetDamage();
+        if (health <= 0)
+        {
+            Destroy(gameObject);
+        }
+    }
+
+    
 
  
 
